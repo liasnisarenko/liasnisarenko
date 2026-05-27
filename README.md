@@ -39,9 +39,9 @@ End-to-end case study of an MCP-orchestrated multi-brand operations stack. Archi
 
 The template I use to audit SMB and creative-agency operations and recommend three high-leverage AI workflows the team can build in the next 30 days. Includes intake form, scoring rubric, and a sample one-page deliverable.
 
-### [venture-validation-edm-platform](https://github.com/liasnisarenko/venture-validation-edm-platform)
+### [venture-validation-methodology](https://github.com/liasnisarenko/venture-validation-methodology)
 
-A two-phase AI-augmented venture validation on an early-stage B2B platform idea. Industry research, competitive landscape, regulatory analysis, wedge scoring, market sizing model (97 formulas), financial model (1,166 formulas), GTM, funding evaluation, plus verification notes that show what got corrected after spot-checking AI output against primary sources.
+Two-phase AI-augmented venture validation methodology demo. The full work product (specific findings, financial models, GTM plans) is held privately. Published here: the methodology, the verification rigor, and one representative artifact showing the spot-check pass against primary sources.
 
 ---
 
